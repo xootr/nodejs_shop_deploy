@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "muggles",
+        "MONGO_PASSWORD": "MUGGLES",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_51HGa5oCEqscE9HtqIjcYIPgNsGM6oqjPnLaKup4I0nGX0D97JmD3CGTcETG46D5QtIVAVnsMJdsMxVu2Ot20dmaN00YhcUUqQd"
+    }
+}
